@@ -1,0 +1,12 @@
+/laravel/.env
+/laravel/public/storage
+/laravel/node_modules/
+/laravel/storage/*.key
+/laravel/vendor/
+*.log
+
+Homestead.yaml
+Homestead.json
+/.vagrant
+.phpunit.result.cache
+
