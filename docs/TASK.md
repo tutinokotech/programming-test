@@ -3,7 +3,19 @@
 プログラマーとデザイナーで課題が異なりますので、ご確認ください。  
 
 ## デザイナー課題
-  
+
+本システムでは、 [Bootstrap](https://getbootstrap.jp/) を使用します  
+以下の画面をデザインし、コーディングしてください  
+画面サイズとして、PC、タブレット、スマートフォンサイズにそって、レスポンシブデザインの設定をしてください  
+コーディングしたHTMLは、以下のパスのとおりsampleフォルダに格納してください  
+
+1. ログインフォーム `sample/login.html`  
+1. マイページ `sample/mypage.html`  
+1. 紹介者の追加 `sample/add_syoukaisya.html`  
+1. 人事部に紹介する `sample/syoukai.html`  
+1. 紹介された方の確認 `sample/syoukai-kakunin.html`  
+1. 追加情報を依頼する（紹介者の登録） `sample/more_syoukaisya.html`  
+
 ![logo.png](img/logo.png)  
 
 ロゴ情報  
@@ -25,18 +37,6 @@
 その他
 
 - ロゴ画像をもとに、favicon.ico を作成して設定してください  
-
-本システムでは、 [Bootstrap](https://getbootstrap.jp/) を使用します  
-以下の画面をデザインし、コーディングしてください  
-画面サイズとして、PC、タブレット、スマートフォンサイズにそって、レスポンシブデザインの設定をしてください  
-コーディングしたHTMLは、以下のパスのとおりsampleフォルダに格納してください  
-
-1. ログインフォーム `sample/login.html`  
-1. マイページ `sample/mypage.html`  
-1. 紹介者の追加 `sample/add_syoukaisya.html`  
-1. 人事部に紹介する `sample/syoukai.html`  
-1. 紹介された方の確認 `sample/syoukai-kakunin.html`  
-1. 追加情報を依頼する（紹介者の登録） `sample/more_syoukaisya.html`  
 
 ## プログラマー課題  
 
