@@ -16,18 +16,18 @@
 ### デザイナー（コーダー）の場合
 
 1. 開発能力テスト当日にHTML/CSS/JavaScriptを編集できるように、自分のPC環境を整えておいてください。
-
 1. 前提知識  
    HTML/CSS/JavaScript
    [Bootstrap](https://getbootstrap.jp/) を用いてコーディングを行っていただきます。
 
 ### システムエンジニアの場合
 
-1. 本リポジトリを `git clone` し、自分のPCにて開発環境を作成してください。
-
-1. Docker環境の構築方法は、[こちら](./docs/DOCKER_USAGE.md)に記載しています。
-
-1. 前提知識  
+1. テスト前の準備
+   - 本リポジトリを [fork](https://docs.github.com/ja/get-started/quickstart/fork-a-repo) し、新しいリポジトリを作成します。
+   - 新しいリポジトリを `git clone` し、自分の PC にて Docker が起動できることを確認してください。
+     - Docker環境の構築方法は、[こちら](./docs/DOCKER_USAGE.md)に記載しています。
+   - [プログラマー課題1](https://github.com/tutinokotech/programming-test/blob/main/docs/TASK.md#%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E8%AA%B2%E9%A1%8C1)のサンプルHTMLを事前に準備しておいてください。
+2. 前提知識  
    HTML/CSS/JavaScript、Git/Docker、PHP/Laravel/SQL  
    [Bootstrap](https://getbootstrap.jp/) を用いてコーディングを行っていただきます。
    Git を使って、本リポジトリをローカル環境にコピーしてもらいます。
