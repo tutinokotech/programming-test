@@ -22,7 +22,7 @@
 
 ### システムエンジニアの場合
 
-1. テスト前の準備
+1. テスト前の準備　※テスト前の準備ができていない場合、テストをする前に不合格とします。
    - 本リポジトリを [fork](https://docs.github.com/ja/get-started/quickstart/fork-a-repo) し、新しいリポジトリを作成します。
    - 新しいリポジトリを `git clone` し、自分の PC にて Docker が起動できることを確認してください。
      - Docker環境の構築方法は、[こちら](./docs/DOCKER_USAGE.md)に記載しています。
